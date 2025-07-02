@@ -1,0 +1,5 @@
+1. Make CLI
+2. Can create dependency graph from js files
+  a. Can read file
+  b. Can read files recursively from imports
+3. Can bundle file into single js file
