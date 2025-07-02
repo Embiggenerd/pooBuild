@@ -1,5 +1,9 @@
 1. Make CLI
 2. Can create dependency graph from js files
-  a. Can read file
-  b. Can read files recursively from imports
+  a. Can read a source file
+  b. Can write to a target file
+  c. Can read files recursively from imports
 3. Can bundle file into single js file
+4. Order of variable definitions test need to pass
+  a. First solution is to 'hide' code in functions
+  b. Second solution is transforming the code 'uglyfy'
