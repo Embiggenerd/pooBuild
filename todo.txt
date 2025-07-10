@@ -1,4 +1,4 @@
-1. Make CLI
+1. Make CLI DONE
 2. Can create dependency graph from js files
   a. Can read a source file
   b. Can write to a target file
